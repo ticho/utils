@@ -16,4 +16,5 @@
 - `minimap`
 - `nuclide`
 
+### optional
 - `auto-indent` if you aren't using `vim-mode-plus`

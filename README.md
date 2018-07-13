@@ -1,6 +1,6 @@
 # utils
 
-## atom packages I use
+## atom packagese
 
 ### core packages
 - `vim-mode-plus` allows you to use vim shortcuts with atom
@@ -18,3 +18,8 @@
 
 ### optional
 - `auto-indent` if you aren't using `vim-mode-plus`
+
+## other config notes
+
+- created an `alias thpi` that copies `Gemfile`, `rubocop.yml` and `.gitignore` in the new project
+- remove unused gems from the Gemfile

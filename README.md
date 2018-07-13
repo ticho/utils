@@ -3,8 +3,8 @@
 ## atom packages
 
 ### core packages
-- `vim-mode-plus` allows you to use vim shortcuts with atom
-- `linter-ruby` underlines potential errors
+- `vim-mode-plus` vim shortcuts with atom
+- `linter-ruby` underlines errors and warnings
 - `git-plus` using git directly from atom
 
 ### useful tools and autocompletes

@@ -21,5 +21,6 @@
 
 ## other config notes
 
+- you can install atom packages from the command line `apm install <package-name>`
 - created an `alias thpi` that copies `Gemfile`, `rubocop.yml` and `.gitignore` in the new project
 - remove unused gems from the Gemfile

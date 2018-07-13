@@ -1,6 +1,6 @@
 # utils
 
-## atom packagese
+## atom packages
 
 ### core packages
 - `vim-mode-plus` allows you to use vim shortcuts with atom

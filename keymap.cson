@@ -1,0 +1,5 @@
+'atom-workspace atom-text-editor':
+  'shift-cmd-p':'git-plus:add-all-commit-and-push'
+  'shift-cmd-a':'git-plus:add-all-commit'
+  'ctrl-shift-m' : 'markdown-preview-plus:toggle'
+

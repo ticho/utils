@@ -10,6 +10,7 @@
 ### useful tools and autocompletes
 - `atom-beautify` style helper
 - `emmet` web package
+- `markdown-preview-plus` (needed to add a few lines in keymap.cson to make it work)
 
 ### prettify atom
 - `file-icons`
